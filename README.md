@@ -1,4 +1,6 @@
-![Logo](https://github.com/chabokpush/chabok-assets/blob/master/sdk-logo/iOS.svg)
+<p align="center"> 
+  <img src="https://github.com/chabokpush/chabok-assets/blob/master/sdk-logo/iOS.svg">
+</p>
 
 # Chabok Push for iOS
 [![Cocoa-pods](https://img.shields.io/cocoapods/v/ChabokPush.svg)](https://cocoapods.org/pods/ChabokPush) [![Cocoa-pods](https://img.shields.io/cocoapods/dt/ChabokPush.svg)](https://cocoapods.org/pods/ChabokPush) [![platform compatible](https://img.shields.io/cocoapods/p/ChabokPush.svg)](https://cocoapods.org/pods/ChabokPush)
