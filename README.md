@@ -1,4 +1,6 @@
-## Chabok Push for iOS
+![Logo](https://github.com/chabokpush/chabok-assets/blob/master/sdk-logo/iOS.svg)
+
+# Chabok Push for iOS
 [![Cocoa-pods](https://img.shields.io/cocoapods/v/ChabokPush.svg)](https://cocoapods.org/pods/ChabokPush) [![Cocoa-pods](https://img.shields.io/cocoapods/dt/ChabokPush.svg)](https://cocoapods.org/pods/ChabokPush) [![platform compatible](https://img.shields.io/cocoapods/p/ChabokPush.svg)](https://cocoapods.org/pods/ChabokPush)
 
 Blow some breath into your app with Chabok realtime messaging and receive push notifications across all platforms with zero code. Know your users better, push them the content based on their location or track their presence/location without headache.
