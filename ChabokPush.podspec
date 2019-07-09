@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 s.name         = 'ChabokPush'
 s.module_name  = 'AdpPushClient'
-s.version='1.20.0'
+s.version='1.20.1'
 s.summary      = 'Connect your users with Chabok realtime messaging or send push notifications to them.'
 s.description  = <<-DESC
 Chabok Push provides your app with in-app messaging and easy geo-location features.
